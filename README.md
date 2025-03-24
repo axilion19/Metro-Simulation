@@ -52,7 +52,7 @@ Yaygın bir gerçek dünya problemine BFS ve A\* algoritmalarıyla çözüm üre
 
 python HakanCobanoglu_MetroSimulation.py ile main dosyasını çalıştırın.
 
-## Test Sonuçları
+### Test Sonuçları
 
 1. **AŞTİ'den OSB'ye:**
    En az aktarmalı rota: AŞTİ -> Kızılay -> Kızılay -> Ulus -> Demetevler -> OSB
@@ -66,7 +66,7 @@ python HakanCobanoglu_MetroSimulation.py ile main dosyasını çalıştırın.
    En az aktarmalı rota: Keçiören -> Gar -> Gar -> Sıhhiye -> Kızılay -> AŞTİ
    En hızlı rota (19 dakika): Keçiören -> Gar -> Gar -> Sıhhiye -> Kızılay -> AŞTİ
 
-### Projeyi Geliştirme Fikirleri
+## Projeyi Geliştirme Fikirleri
 
 - Kullanıcı dostu bir arayüz geliştirilebilir.
 - Dijkstra gibi daha verimli bir algoritma tercih edilebilir.
